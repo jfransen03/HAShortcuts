@@ -5,7 +5,7 @@ REM =========================
 REM CONFIGURATION
 REM =========================
 REM Set MODE to LAPTOP or PC
-set "MODE=PC"
+set "MODE=LAPTOP"
 
 REM =========================
 REM LOCATE ControlMyMonitor
